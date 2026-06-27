@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-letzte-brief/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Der letzte Brief](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-brief/) |
+| **Get License** | [Music Rights & Licensing for Der letzte Brief](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-brief/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8321c65b45da44abcebd2659a5a64a629adb18dacaa9734ebd8a315ad0a25180` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
