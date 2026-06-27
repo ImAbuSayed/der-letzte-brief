@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-letzte-brief/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Der letzte Brief](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-brief/) |
+| **Get License** | [Get License For Der letzte Brief](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-brief/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schreib' den letzten Brief auf die Scheibe vom Coupé
+> Du bist alles, was ich will, Baby, on my way
+> Bässe drücken tief, schwarzes Leder, rotes Licht
+> Keine andere Frau auf der Welt hat dein Gesicht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
